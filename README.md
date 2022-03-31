@@ -1,3 +1,4 @@
 # Calculator-with-TDD
 
-How to run :- pytest test_string_calculator.py
+### Command to run 
+pytest test_string_calculator.py
